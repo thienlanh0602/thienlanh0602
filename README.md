@@ -2,7 +2,6 @@
 ## 👋 Hi, I’m Thiên Lảnh
 </br>
 
-<img  width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <img  width="400" src="https://cdn.dribbble.com/users/1299339/screenshots/16895521/media/b20a1515c4100d79ee8ba77c12fa23da.gif">
 
 <!---
