@@ -3,7 +3,6 @@
 </br>
 
 <img  width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-<img  width="400" src="https://cdn.dribbble.com/users/3250516/screenshots/10080932/media/ef676efb8b7b553988c8095ae779b4ba.gif">
 
 <!---
 thienlanh0602/thienlanh0602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
