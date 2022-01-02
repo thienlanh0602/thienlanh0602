@@ -6,7 +6,6 @@ thienlanh0602/thienlanh0602 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## 👋 Hi there, I'm Thanh.
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800">
 
@@ -14,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 [Linkedin](https://www.linkedin.com/in/xu%C3%A2n-th%C3%A0nh-35a99421b/)
 </br>
-[Facebook](https://www.facebook.com/xuanthanh2609/)
+[Facebook](https://www.facebook.com/thien.lanh.dep.trai/)
