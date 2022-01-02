@@ -1,7 +1,6 @@
 
-## 👋 Hi, I’m Thiên Lảnh
 </br>
-
+<h1 align="center"> Hi 👋, I’m Thiên Lảnh</h1>
 <img  width="400" src="https://cdn.dribbble.com/users/1299339/screenshots/16895521/media/b20a1515c4100d79ee8ba77c12fa23da.gif">
 
 <!---
