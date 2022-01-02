@@ -1,7 +1,7 @@
 
 </br>
 <h1 align="center"> Hi 👋, I’m Thiên Lảnh</h1>
-<img  align="center" align = "500" src="https://cdn.dribbble.com/users/1299339/screenshots/16895521/media/b20a1515c4100d79ee8ba77c12fa23da.gif">
+<img  align="center" align = "300" src="https://cdn.dribbble.com/users/1299339/screenshots/16895521/media/b20a1515c4100d79ee8ba77c12fa23da.gif">
 
 <!---
 thienlanh0602/thienlanh0602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
