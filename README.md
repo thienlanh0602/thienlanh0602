@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://www.upwork.com/freelance-jobs/application-programming/?utm_campaign=bud&utm_source=giphy&utm_medium=social" alt="Coder GIF" width="700">
+<img src="https://cdn.dribbble.com/users/3250516/screenshots/10080932/media/ef676efb8b7b553988c8095ae779b4ba.gif" alt="Coder GIF" width="700">
 
 <h2 align="left"> Let's get connected:</h2>
 
