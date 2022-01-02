@@ -1,6 +1,6 @@
-</br>
-## 👋 Hi, I’m Thiên Lảnh
 
+## 👋 Hi, I’m Thiên Lảnh
+</br>
 
 <!---
 thienlanh0602/thienlanh0602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
