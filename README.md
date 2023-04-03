@@ -2,7 +2,9 @@
 </br>
 <h1 align="center"> Hi 👋, I’m Thiên Lảnh</h1>
 <div  align="center"> Front-End / UX-UI </div>
-<img  align="center" width="800" src="https://cdn.dribbble.com/users/1299339/screenshots/16895521/media/b20a1515c4100d79ee8ba77c12fa23da.gif">
+</br>
+</br>
+<img style={{ display: block, margin-left: "auto", margin-right: "auto", width: "20%"}} src="https://cdn.dribbble.com/users/1299339/screenshots/16895521/media/b20a1515c4100d79ee8ba77c12fa23da.gif">
 
 <!---
 thienlanh0602/thienlanh0602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
